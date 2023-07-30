@@ -1,0 +1,30 @@
+body{
+  width: 100vw;
+  height: 100vh;
+}
+
+.principal{
+    width: 100%;
+    height: 100%;
+    background-image: url(/images/bg-palm.jpg);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+  
+   
+}
+
+.div_nombre{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.div_enlaces{
+  background-color: #d9c4d9; 
+  text-align: center;
+}
+
+.div_imagen{
+  text-align: center;
+}
